@@ -1,0 +1,4 @@
+#Sun Dec 09 23:05:16 ALMT 2018
+base.0=D\:\\FlutterProjects\\udacity-course\\unit_converter\\unit_converter\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
